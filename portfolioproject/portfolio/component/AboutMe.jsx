@@ -1,3 +1,4 @@
+/*AboutMe.jsx Yehor Valesiuk 301343939 28.09.24*/
 import image from '/PersonalPhoto.jpg'
 
 export default function AboutMe(){

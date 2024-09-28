@@ -1,3 +1,4 @@
+/*NavigationBar.jsx Yehor Valesiuk 301343939 28.09.24*/
 import React from "react";
 import {Route, Routes} from "react-router-dom";
 import Layout from "./Layout"

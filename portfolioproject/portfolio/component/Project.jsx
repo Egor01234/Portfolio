@@ -1,3 +1,4 @@
+/*Project.jsx Yehor Valesiuk 301343939 28.09.24*/
 import image1 from '/Project1.jpeg'
 import image2 from '/Project2.jpg'
 import image3 from '/Project3.jpg'

@@ -1,7 +1,8 @@
+/*Layout.jsx Yehor Valesiuk 301343939 28.09.24*/
+
 import React from 'react';
 import {Link} from 'react-router-dom';
 import Logo from "../component/Logo"
-// import logo from './logo.png';
 
 export default function Layout(){
     return (

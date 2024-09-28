@@ -1,3 +1,4 @@
+/*Services.jsx Yehor Valesiuk 301343939 28.09.24*/
 export default function Services(){
     return <div><p id = "services">
         <br></br>

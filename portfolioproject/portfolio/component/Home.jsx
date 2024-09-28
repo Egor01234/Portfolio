@@ -1,3 +1,4 @@
+/*Home.jsx Yehor Valesiuk 301343939 28.09.24*/
 export default function Home(){
     return <div><p>I’m glad you’re here!
          This portfolio showcases my work in AI Software Development field,

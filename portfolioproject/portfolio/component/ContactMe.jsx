@@ -1,3 +1,4 @@
+/*ContactMe.jsx Yehor Valesiuk 301343939 28.09.24*/
 export default function ContactMe(){
     return <div>
         <p>Phone number: 000-000-0000<br></br>
