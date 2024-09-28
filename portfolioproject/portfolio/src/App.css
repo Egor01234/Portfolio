@@ -26,7 +26,7 @@ p{
   font-size: 16px;
 }
 
-#AboutButton{
+.Button{
   background-color: azure;
   border: solid black 2px;
   padding: 10px;
@@ -34,7 +34,7 @@ p{
 
 border-radius: 30%;}
 
-#AboutButton:hover {
+.Button:hover {
   background-color: darkred;
   color: white;
 }

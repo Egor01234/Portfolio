@@ -5,6 +5,6 @@ export default function Home(){
            Each piece represents my passion for Software, 
            and I hope it gives you a glimpse into my approach and vision. <br></br>
            Feel free to explore, and I’d love to hear your thoughts or connect!
-     </p> <a href="/about" id = "AboutButton">About Me</a></div>
+     </p> <a href="/about" className = "Button">About Me</a></div>
     
 }

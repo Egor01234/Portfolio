@@ -12,6 +12,6 @@ export default function AboutMe(){
         <br></br>
         <br></br>
         <br></br> 
-        </div>
+        <a href="Resume.docx" className = "Button" download>Resume</a></div>
         
 }
