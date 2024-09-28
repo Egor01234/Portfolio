@@ -12,11 +12,11 @@ export default function Layout(){
     <br></br>
     
     <nav>
-        <Link class = "link" to = "/">  Home  </Link> | 
-        <Link class = "link" to = "/about">  About Me  </Link> |
-        <Link class = "link" to = "/services">  Services  </Link> |
-        <Link class = "link" to = "/project">  Projects  </Link> |
-        <Link class = "link" to = "/contact">  Contact Me</Link>
+        <Link className = "link" to = "/">  Home  </Link> | 
+        <Link className = "link" to = "/about">  About Me  </Link> |
+        <Link className = "link" to = "/services">  Services  </Link> |
+        <Link className = "link" to = "/project">  Projects  </Link> |
+        <Link className = "link" to = "/contact">  Contact Me</Link>
     </nav>
     
     </>)
