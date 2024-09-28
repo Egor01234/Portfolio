@@ -39,7 +39,15 @@ border-radius: 30%;}
   color: white;
 }
 
-#image{
+
+
+#aboutImage{
   
   height: 300px;
+}
+
+.projectImage{
+  width: 60%;
+  
+  
 }

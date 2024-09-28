@@ -6,7 +6,7 @@ export default function AboutMe(){
         I continue studying with passion new technologies and develop myself.
         </p>
         <br></br>
-        <img src={image} id = "image" />
+        <img src={image} id = "aboutImage" />
         <br></br>
         <br></br>
         <br></br> 
