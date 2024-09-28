@@ -6,13 +6,14 @@ import About from "../component/AboutMe"
 import Services from "../component/Services"
 import Project from "../component/Project"
 import Contact from "../component/ContactMe"
+import Logo from "../component/Logo"
 
-
-const MainRouter = () => {
+const NavigationBar = () => {
     return (
         <div>
             <Layout/>
             <Routes>
+                <Route exact path="/logo" element={<Logo />}/>
                 <Route exact path="/" element={<Home />}/>
                 <Route exact path="/about" element={<About />}/>
                 <Route exact path="/services" element={<Services />}/>
@@ -23,4 +24,4 @@ const MainRouter = () => {
     )
 }
 
-export default MainRouter
+export default NavigationBar
